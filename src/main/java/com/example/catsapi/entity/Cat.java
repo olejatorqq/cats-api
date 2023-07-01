@@ -1,9 +1,10 @@
 package com.example.catsapi.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+
 import lombok.Data;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
